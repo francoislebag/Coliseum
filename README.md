@@ -1,4 +1,4 @@
-# Colyseum
+# Coliseum
 
 Here is the implementation of our Game project Coliseum by
 
